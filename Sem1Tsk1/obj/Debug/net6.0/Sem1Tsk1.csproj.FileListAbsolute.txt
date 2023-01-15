@@ -1,0 +1,15 @@
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\bin\Debug\net6.0\Sem1Tsk1.exe
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\bin\Debug\net6.0\Sem1Tsk1.deps.json
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\bin\Debug\net6.0\Sem1Tsk1.runtimeconfig.json
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\bin\Debug\net6.0\Sem1Tsk1.dll
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\bin\Debug\net6.0\Sem1Tsk1.pdb
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.csproj.AssemblyReference.cache
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.AssemblyInfoInputs.cache
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.AssemblyInfo.cs
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.csproj.CoreCompileInputs.cache
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.dll
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\refint\Sem1Tsk1.dll
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.pdb
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\Sem1Tsk1.genruntimeconfig.cache
+C:\Users\Роман и Сергей\Desktop\Учёба\C#\семинары\3728\Sem1Tsk1\obj\Debug\net6.0\ref\Sem1Tsk1.dll
