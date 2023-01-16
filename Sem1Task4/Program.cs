@@ -10,6 +10,7 @@ int number1 = int.Parse(inputNum1);
 int number2 = int.Parse(inputNum2);
 int number3 = int.Parse(inputNum3);
 Console.Write("Большее число ");
+// сравниваем числа 1 и 2 и затем внутри if создаем еще if, где сравниваем победителя с 3 числом
 if (number1 > number2)
 {
     if(number1>number3)
