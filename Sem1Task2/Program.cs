@@ -7,7 +7,7 @@ string? inputNum2 = Console.ReadLine();
 int number1 = int.Parse(inputNum1);
 int number2 = int.Parse(inputNum2);
 Console.Write("Больше число ");
-// Через функцию "если условие...в другом случае..." выводим большее число на экран
+//  Через функцию "если условие...в другом случае..." выводим большее число на экран
 if (number1 > number2)
 {
     Console.WriteLine(number1);
