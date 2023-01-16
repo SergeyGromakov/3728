@@ -9,5 +9,5 @@ if (number % 2 == 0)
 }
 else
 {
-    Console.WriteLine("Введенное число нечётное");
+    Console.WriteLine("Введенное число не чётное");
 }
