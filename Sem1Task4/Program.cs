@@ -5,6 +5,8 @@ Console.Write("Введите второе чило: ");
 string? inputNum2 = Console.ReadLine();
 Console.Write("Введите третье чило: ");
 string? inputNum3 = Console.ReadLine();
+if (inputNum1!= null && inputNum2!= null && inputNum3!= null)
+{
 //Парсим значения 
 int number1 = int.Parse(inputNum1);
 int number2 = int.Parse(inputNum2);
@@ -32,4 +34,5 @@ else
     {
         Console.WriteLine(number3);
     }
+}
 }
