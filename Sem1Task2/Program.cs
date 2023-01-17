@@ -3,6 +3,8 @@ Console.Write("Введите первое чило: ");
 string? inputNum1 = Console.ReadLine();
 Console.Write("Введите второе чило: ");
 string? inputNum2 = Console.ReadLine();
+if (inputNum1!= null && inputNum2!= null)
+{
 //Парсим значения 
 int number1 = int.Parse(inputNum1);
 int number2 = int.Parse(inputNum2);
@@ -15,4 +17,5 @@ if (number1 > number2)
 else
 {
     Console.WriteLine(number2);
+}
 }
