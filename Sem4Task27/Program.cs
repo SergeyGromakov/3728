@@ -29,7 +29,6 @@ int Sum2(int num)
     {
         Console.WriteLine(DigitsArray[i]);
         res = res + DigitsArray[i];
-        i = i + 1;
     }
     return res;
 }
