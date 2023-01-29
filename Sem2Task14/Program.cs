@@ -11,7 +11,7 @@
 //     Console.WriteLine("Число не кратно 23 и 7");
 // }
 
-Вариант 3
+// Вариант 3
 
 int num = int.Parse(Console.ReadLine() ?? "0");
 if ((num % 7 == 0) && (num % 23 == 0))

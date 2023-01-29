@@ -28,7 +28,7 @@ int Sum2(int num)
     for(int i =0; i< DigitsArray.Length; i++)
     {
         Console.WriteLine(DigitsArray[i]);
-        res = res + DigitsArray[i];
+        res = res + DigitsArray[i]-48;
     }
     return res;
 }
@@ -41,5 +41,10 @@ void PrintData(string msg, int res)
 int number = ReadData("Введите любое число");
 int FirstSum = Sum1(number);
 int SecondSum = Sum2(number);
+DateTime d1 = DateTime.Now;
 PrintData("Сумма первым методом: ", FirstSum);
+Console.WriteLine(DateTime.Now - d1);
+
+DateTime d2 = DateTime.Now;
 PrintData("Сумма вторым методом: ", SecondSum);
+Console.WriteLine(DateTime.Now - d2);
